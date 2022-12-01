@@ -4,7 +4,7 @@
 
 ## Full Design
 > Version 1 - Development Period : A Week('22.11.10 ~ '22.11.13)
-
+  * CSS will be updated in December(2022)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56642855/201526636-53f8c072-0234-471a-9990-a55a2e88e7db.JPG", height="400px", width="450px">
 </p>
